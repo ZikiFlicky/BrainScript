@@ -49,6 +49,7 @@ and the name of the output JavaScript file.
 E.g:
 ```
 build/bf input.bf output.js
+nodejs output.js
 ```
 
 There's a third optional parameter which specifies the size of the tape.
